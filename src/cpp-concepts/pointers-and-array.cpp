@@ -10,6 +10,7 @@ int main(){
     cout<<"\nAddress = "<<(p+i);
     cout<<"\nAddress = "<<(A+i);
     cout<<"\nValue = "<< *(A+i);
+    cout<<"Good";
     }
 
 
